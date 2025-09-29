@@ -86,3 +86,8 @@ Add CutMix, MixUp, or Cutout for augmentation
 Deploy trained model with Streamlit or FastAPI
 
 # OUTPUT
+<img width="1919" height="1143" alt="Image" src="https://github.com/user-attachments/assets/8b95b472-c5fd-43cf-8316-701365619176" />
+<img width="1919" height="1141" alt="Image" src="https://github.com/user-attachments/assets/87dfbb38-d81a-4b12-b674-01365e9cb669" />
+<img width="1919" height="1147" alt="Image" src="https://github.com/user-attachments/assets/ac6585b0-132a-4399-a153-fd64a6b7016c" />
+<img width="1919" height="1146" alt="Image" src="https://github.com/user-attachments/assets/1f07cb54-1fe7-4556-a0e0-17d784a4e4eb" />
+<img width="1919" height="272" alt="Image" src="https://github.com/user-attachments/assets/87abe2a8-f71c-4d5a-99d8-cde3b92a2cc5" />
