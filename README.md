@@ -1,4 +1,15 @@
 🖼️ CNN Image Classification with TensorFlow & PyTorch
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : GAURAV PANDEY
+
+INTERN ID : CT04DY1426
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
 
 This project demonstrates how to build a Convolutional Neural Network (CNN) from scratch for image classification using CIFAR-10 dataset.
 Two implementations are provided: one using TensorFlow/Keras and one using PyTorch.
